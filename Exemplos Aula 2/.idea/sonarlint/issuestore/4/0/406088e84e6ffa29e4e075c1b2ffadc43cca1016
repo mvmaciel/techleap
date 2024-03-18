@@ -1,0 +1,6 @@
+
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(À÷É©
+E	java:S106"+Replace this use of System.out by a logger.(ê§„—ýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(É¬Ü±ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Çµí‘

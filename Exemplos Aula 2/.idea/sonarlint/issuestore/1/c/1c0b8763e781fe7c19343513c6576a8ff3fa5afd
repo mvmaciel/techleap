@@ -1,0 +1,12 @@
+
+
+java:S1854	"<Remove this useless assignment to local variable "decimal2".(¬àŒı8ø¼ÜÊä1J$17d1ef14-e120-4de2-acb6-d904bd8de196
+p
+java:S1481	"-Remove this unused "decimal2" local variable.(¬àŒı8ü¼ÜÊä1J$c58ce396-a06e-42c2-856c-a75a608b00dc
+r	java:S106"+Replace this use of System.out by a logger.(¾È—ßüÿÿÿÿ8ÿ¼ÜÊä1J$571b4b36-c6ac-46ed-995c-a92d5f37fda8
+r	java:S106"+Replace this use of System.out by a logger.(­äîÎûÿÿÿÿ8€½ÜÊä1J$52345852-98e0-4e87-bc14-5a4746d027ad
+r	java:S106"+Replace this use of System.out by a logger.(íŠâÿûÿÿÿÿ8‚½ÜÊä1J$a99e9410-827d-4b81-ab7c-4f64b4a0019a
+r	java:S106"+Replace this use of System.out by a logger.(µ´Ò¬ÿÿÿÿÿ8†½ÜÊä1J$745cb61c-bf0e-4062-ac6a-bebd7294bc24
+m	java:S106"+Replace this use of System.out by a logger.(™ìÃÑ8…ßÊä1J$551e7344-7563-4ee1-b462-14068bbb9d3f
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8‰½ÜÊä1J$b9e1b718-b3ff-4963-8905-43cb87da558a
